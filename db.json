@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ramesh",
+      "age": 23,
+      "address": "sjdclksd",
+      "status": "true",
+      "salary": 6000,
+      "dept": "HR"
+    },
+    {
+      "id": "a8eafbcf-1939-4b1a-b223-aaa5430a51a1",
+      "name": "sdf",
+      "age": "45",
+      "address": "fd",
+      "status": true,
+      "salary": "454",
+      "dept": "sales"
+    },
+    {
+      "id": "f9e6135b-d461-4c65-a9b5-99b882e2d85b",
+      "name": "sdf",
+      "age": "45",
+      "address": "fds",
+      "status": false,
+      "salary": "5345",
+      "dept": "sales"
+    },
+    {
+      "id": "949984d6-e967-4092-9670-13bc99fe6439",
+      "name": "fd",
+      "age": "45",
+      "address": "dfs",
+      "status": false,
+      "salary": "454",
+      "dept": "sales"
+    },
+    {
+      "id": "ab1e344a-f47e-4580-a9e7-903ff82ce855",
+      "name": "vbxb",
+      "age": "54",
+      "address": "fgdfg",
+      "status": false,
+      "salary": "65456",
+      "dept": "hr"
+    },
+    {
+      "id": "37a06fdf-9b92-460b-8c20-010a0e461737",
+      "name": "fvd",
+      "age": "43",
+      "address": "fsf",
+      "status": false,
+      "salary": "434",
+      "dept": "sales"
+    },
+    {
+      "id": "7f78677b-c4e3-49f8-987f-310745f0d69c",
+      "name": "ghj",
+      "age": "56",
+      "address": "ghngj",
+      "status": true,
+      "salary": "564",
+      "dept": "sales"
+    }
+  ]
+}
